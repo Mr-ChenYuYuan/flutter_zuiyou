@@ -446,7 +446,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return Scaffold( 
       body: SafeArea(
         child: Padding(
           padding: const EdgeInsets.all(15.0),
